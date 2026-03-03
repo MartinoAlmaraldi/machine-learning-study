@@ -1,2 +1,4 @@
-This repository contains my personal Python practice files while learning the basics of the language.
-All scripts here are simple examples focusing on fundamental Python concepts.
+# Machine Learning Study
+
+This repository contains my personal journey in learning Machine Learning, 
+including fundamental concepts, model implementation, experiments, and case studies.
